@@ -1,0 +1,23 @@
+\hspace *{.5cm}شکل\hfill صفحه \par 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4-1}{\ignorespaces نمای کلی دو مدل پرش‌نگاشت و کیسه‌واژه پیوسته \citep {suleiman2017deep}\relax }}{30}{figure.caption.19}
+\contentsline {figure}{\numberline {4-2}{\ignorespaces نحوه ترکیب تعبیه‌های سه‌گانه در مدل زبانی برت \citep {devlin2018bert}\relax }}{30}{figure.caption.20}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5-1}{\ignorespaces نمایی از شبکه عصبی دارای نورون‌های مدل پرسپترون ساده\relax }}{33}{figure.caption.21}
+\contentsline {figure}{\numberline {5-2}{\ignorespaces .نمای کلی مدل پیچشی الکس‌نت \citep {krizhevsky2012imagenet}\relax }}{35}{figure.caption.23}
+\contentsline {figure}{\numberline {5-3}{\ignorespaces نمای کلی یک شبکه عصبی عمیق پیچشی \citep {le2017convolutional}\relax }}{36}{figure.caption.24}
+\contentsline {figure}{\numberline {5-4}{\ignorespaces نحوه عملکرد یادگیری مدل برت \citep {devlin2018bert}\relax }}{38}{figure.caption.25}
+\contentsline {figure}{\numberline {5-5}{\ignorespaces نحوه استفاده از یک لایه پرسپترون ساده درکنار مدل برت\relax }}{41}{figure.caption.26}
+\contentsline {figure}{\numberline {5-6}{\ignorespaces نحوه ارتباط لایه پیچشی با بردارهای خروجی مدل برت\relax }}{42}{figure.caption.27}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6-1}{\ignorespaces ماتریس درهم‌ریختگی نتایج آزمایش‌های دادگان لیار\relax }}{48}{figure.caption.33}
+\contentsline {figure}{\numberline {6-2}{\ignorespaces ماتریس درهم‌ریختگی نتایج آزمایش‌های دادگان آی.اس.اُ.تی.\relax }}{51}{figure.caption.38}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7-1}{\ignorespaces معماری مدل پیچشی با استفاده از فراداده موجودیت‌های نامدار\relax }}{61}{figure.caption.41}
+\contentsline {figure}{\numberline {7-2}{\ignorespaces معماری مدل پرسپترون با استفاده از فراداده موضوع‌ خبر\relax }}{62}{figure.caption.42}
+\addvspace {10\p@ }
+\contentsfinish 
+\contentsfinish 
