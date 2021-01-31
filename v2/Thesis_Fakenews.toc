@@ -1,0 +1,66 @@
+\edef \SavedTocDepth {\the \value {tocdepth}}
+\setcounter {tocdepth}{-10}
+\contentsline {chapter}{فهرست اشکال}{د}{section*.4}
+\contentsline {chapter}{فهرست جداول}{ه}{section*.5}
+\par عنوان\hfill صفحه \par 
+\setcounter {tocdepth}{\SavedTocDepth }
+\contentsline {chapter}{\numberline {1}مقدمه و طرح مسئله}{1}{chapter.1}
+\contentsline {section}{\numberline {1-1}مقدمه}{2}{section.1.1}
+\contentsline {section}{\numberline {1-2}طرح مسئله}{2}{section.1.2}
+\contentsline {section}{\numberline {1-3}راه حل پیشنهادی}{3}{section.1.3}
+\contentsline {chapter}{\numberline {2}پیشینه تشخیص اخبار جعلی}{4}{chapter.2}
+\contentsline {section}{\numberline {2-1}کارهای انجام شده در زبان انگلیسی}{5}{section.2.1}
+\contentsline {section}{\numberline {2-2}دادگان موجود در انگلیسی و آمار دادگان}{8}{section.2.2}
+\contentsline {subsection}{\numberline {2-2-1}دادگان لیار}{8}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2-2-2}دادگان آی.اس.اُ.تی}{10}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2-2-3}دادگان بازفید}{10}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2-2-4}توئیتر ۱۵}{10}{subsection.2.2.4}
+\contentsline {section}{\numberline {2-3}دادگان موجود در سایر زبان‌ها}{11}{section.2.3}
+\contentsline {section}{\numberline {2-4}کارهای انجام شده و دادگان موجود در زبان فارسی}{12}{section.2.4}
+\contentsline {chapter}{\numberline {3}تهیه دادگان فارسی «تاج»}{14}{chapter.3}
+\contentsline {section}{\numberline {3-1}مقدمه‌ای بر جمع‌آوری داده‌ها}{15}{section.3.1}
+\contentsline {section}{\numberline {3-2}مراحل جمع‌آوری داده‌ها}{15}{section.3.2}
+\contentsline {section}{\numberline {3-3}نشانه‌گذاری داده}{16}{section.3.3}
+\contentsline {section}{\numberline {3-4}آمار دادگان}{19}{section.3.4}
+\contentsline {chapter}{\numberline {4}معماری مدل‌های ارائه شده}{21}{chapter.4}
+\contentsline {section}{\numberline {4-1}مقدمه}{22}{section.4.1}
+\contentsline {section}{\numberline {4-2}مدل‌های دسته‌بندی متن}{22}{section.4.2}
+\contentsline {subsection}{\numberline {4-2-1}شبکه عصبی پرسپترون ساده}{22}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4-2-2}شبکه عصبی پیچشی}{23}{subsection.4.2.2}
+\contentsline {section}{\numberline {4-3}بازنمایی برداری اخبار با رویکردهای مختلف}{25}{section.4.3}
+\contentsline {subsection}{\numberline {4-3-1}بازنمایی مبتنی ‌بر واژه}{26}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4-3-2}بازنمایی مبتنی ‌بر تعبیه ایستا (ورد2وک)}{27}{subsection.4.3.2}
+\contentsline {subsubsection}{مدل کیسه‌واژه پیوسته}{27}{section*.20}
+\contentsline {subsubsection}{مدل پرش‌نگاشت}{28}{section*.21}
+\contentsline {subsection}{\numberline {4-3-3}بازنمایی مبتنی ‌بر موضوع (تخصیص نهان دیریکله)}{28}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4-3-4}مدل‌های بازنمائی متن مبتنی بر بافت}{29}{subsection.4.3.4}
+\contentsline {subsubsection}{برت}{29}{section*.23}
+\contentsline {subsubsection}{برت چند زبانه}{32}{section*.26}
+\contentsline {subsubsection}{پارس‌برت}{32}{section*.27}
+\contentsline {subsubsection}{آلبرت-فارسی}{32}{section*.28}
+\contentsline {subsubsection}{ایکس.ال.ام-روبرتا}{32}{section*.29}
+\contentsline {section}{\numberline {4-4}معماری‌های پیشنهادی برای تشخیص اخبار جعلی}{33}{section.4.4}
+\contentsline {subsection}{\numberline {4-4-1}مدل زبانی مبتنی بر بافت + پرسپترون ساده}{33}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4-4-2}مدل زبانی مبتنی بر بافت + پیچشی}{35}{subsection.4.4.2}
+\contentsline {chapter}{\numberline {5}بررسی نتایج و ارزیابی مدل‌های ارائه شده}{37}{chapter.5}
+\contentsline {section}{\numberline {5-1}آزمایش‌های انجام‌شده بر روی پیکره «تاج»}{38}{section.5.1}
+\contentsline {subsection}{\numberline {5-1-1}پیش‌پردازش داده‌های خبری}{38}{subsection.5.1.1}
+\contentsline {subsubsection}{هنجارسازی واژه‌ها}{38}{section*.32}
+\contentsline {subsubsection}{واحدسازی واژه‌ها}{39}{section*.33}
+\contentsline {subsection}{\numberline {5-1-2}تنظیمات آزمایش‌ها}{39}{subsection.5.1.2}
+\contentsline {subsection}{\numberline {5-1-3}نتایج}{40}{subsection.5.1.3}
+\contentsline {section}{\numberline {5-2}آزمایش‌های انجام‌شده بر روی سایر پیکره‌های فارسی}{41}{section.5.2}
+\contentsline {section}{\numberline {5-3}آزمایش‌های انجام‌شده برروی پیکره‌های زبان انگلیسی}{42}{section.5.3}
+\contentsline {chapter}{\numberline {6}بهبود تشخیص اخبار جعلی با فراداده‌های حاصل از پردازش زبان}{48}{chapter.6}
+\contentsline {section}{\numberline {6-1}انگیزه}{49}{section.6.1}
+\contentsline {section}{\numberline {6-2}استخراج ویژگی‌های موضوعی مستندات}{49}{section.6.2}
+\contentsline {subsection}{\numberline {6-2-1}دسته‌بندی بانظارت براساس 6 دسته مختلف}{50}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6-2-2}دسته‌بندی بدون‌ نظارت براساس روش تخصیص نهان دیریکله}{50}{subsection.6.2.2}
+\contentsline {section}{\numberline {6-3}تشخیص موجودیت‌های نامدار}{51}{section.6.3}
+\contentsline {section}{\numberline {6-4}تحلیل احساسات}{52}{section.6.4}
+\contentsline {section}{\numberline {6-5}نتایج حاصل از استفاده از پردازش‌های متنی در تشخیص اخبار}{54}{section.6.5}
+\contentsline {chapter}{\numberline {7}جمع‌بندی و کارهای آتی}{58}{chapter.7}
+\contentsline {section}{\numberline {7-1}جمع‌بندی و نتیجه‌گیری}{59}{section.7.1}
+\contentsline {section}{\numberline {7-2}کار‌های آتی}{59}{section.7.2}
+\contentsline {chapter}{منابع و مراجع}{60}{appendix*.50}
+\contentsfinish 
